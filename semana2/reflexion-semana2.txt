@@ -1,0 +1,9 @@
+Pienso que para un desarrollador es muy importante aprender a usar la 
+terminal, porque facilita mucho el trabajo al momento de organizar proyectos
+y manejar archivos. Aunque al inicio parece dificil y un poco confusa, con 
+la practica se vuelve una herramienta muy util y rapida. Gracias a la 
+terminal podemos crear carpetas, movernos entre directorios y administrar
+archivos de forma eficiente. Ademas, mcuhas herramientas que se usan en 
+programacion funcional directamente desde la terminal, como git. Considero 
+que saber usarla hace que un desarrollador trabaje de una manera mas 
+organizada y profesional.
