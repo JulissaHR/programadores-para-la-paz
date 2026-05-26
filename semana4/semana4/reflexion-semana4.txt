@@ -1,0 +1,9 @@
+Las comunidades y las iniciativas ciudadanas deberian construir sus propias
+herramientas tecnologicas porque asi pueden crear soluciones pensadas 
+reamente en sus necesidades ya que tecnologias abiertas como Node.js permiten
+que cualquier persona pueda aprender, modificar y mejorar proyectos sin 
+depender totalmente de grandes empresas. Otro aspecto importante es que 
+fomenta el aprendizaje y el desarrollo de habilidades tecnologicas en 
+jovenes y adultos, entonces de esta forma, la tecnologia deja de ser
+algo lejano y se convierte en una herramienta util para transformar la 
+realidad de las comunidades.
