@@ -1,0 +1,18 @@
+Al consultar la ruta GET /reportes, el sistema muestra todos los reportes que han sido registrados previamente. 
+En mi prueba aparecieron dos reportes: uno relacionado con un daño en el alumbrado público y otro sobre 
+la acumulación de residuos en una zona comunitaria. Esto demuestra que los datos enviados mediante 
+la ruta POST se almacenan correctamente.
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  },
+  {
+    "id": 2,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  }
+]
+
