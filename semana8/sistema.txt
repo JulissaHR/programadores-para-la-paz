@@ -1,0 +1,13 @@
+Comando: uname -a
+MINGW64_NT-10.0-26200 JesusDavidMina 3.6.7-fb42d713.x86_64 2026-03-29 11:44 UTC x86_64 Msys.
+
+Muestra informacion del sistema operativo, como el nombre del sistema,
+version de kernel y otros datos tecnicos.
+
+
+Comando: Whoami
+Muestra el nombre del usuario que tiene la sesion activa en el sistema.
+
+conocer esta informacion es importante porque permite administrar servidores porque 
+permite identificar el sistema operativo utilizado, verificar el usuario que ejecuta los comandos
+y facilitar tareas de configuracion, mantenimineto y solucion de problemas.

@@ -1,0 +1,9 @@
+Considero que la seguridad digital es muy importante porque permite proteger la 
+información de las personas que utilizan una plataforma tecnologica. En las
+comunidades se comparten datos, opiniones y reportes que deben mantenerse seguros 
+para evitar que sean utilizados de manera indebida.
+Una plataforma con buenas medidas de seguridad genera confianza entre sus usuarios y asi
+fomenta un mayor participación y tambien ayuda a prevenir accesos no autorizados, perdidas
+de información y posibles ataques informaticos. Por esta razon, es fundamental implementar practicas
+como el uso de contraseñas seguras, el control de accesos y la proteccion de los datos personales
+y eso garantiza un entorno mas seguro, confiable y beneficioso para toda la comunidad.
