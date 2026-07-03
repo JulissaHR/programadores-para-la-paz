@@ -1,0 +1,12 @@
+Las dos tareas que haría primero del backlog son:
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+2. Como coordinador quiero recibir una alerta en Telegram cuando se registre un nuevo reporte.
+
+Son las más importantes porque la primera permite capturar la información desde el inicio y la segunda garantiza la respuesta inmediata del equipo.
+
+Definición de terminado:
+
+* La funcionalidad está implementada correctamente.
+* Fue probada y no presenta errores.
+* Está registrada y guardada en el repositorio Git.

@@ -1,0 +1,17 @@
+Evento: un ciudadano registra una nueva incidencia en la plataforma comunitaria.
+
+Flujo: n8n detecta automáticamente cuando se crea un nuevo registro en la base de datos o formulario.
+
+Acción: enviar una notificación a un grupo de Telegram donde están los coordinadores del proyecto.
+
+Mensaje enviado:
+"Se ha registrado una nueva incidencia en el sistema. Ingresar al panel para revisarla y asignarla."
+
+Información que NO debe enviarse por seguridad:
+- Nombres completos del ciudadano
+- Número de identificación
+- Dirección exacta
+- Teléfono
+- Correo electrónico
+- Cualquier dato sensible o personal
+
