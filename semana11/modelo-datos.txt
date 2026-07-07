@@ -1,0 +1,24 @@
+Entidad: Usuario
+
+Campos Principales:
+-id
+-nombre
+-correo
+-contraseña
+-fecha_registro
+
+Proposito:
+Guardar la información de los usuarios registrados para que puedan acceder y participar en la plataforma.
+
+
+Entidad: Publicación
+
+Campos Principales:
+-id
+-usuario_id
+-titulo
+-descripcion
+-fecha_publicacion
+
+Proposito:
+Almacenar las publicaciones creadas por los usuarios para compartir información con la comunidad.
