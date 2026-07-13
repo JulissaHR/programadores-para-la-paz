@@ -1,0 +1,13 @@
+AUTOMATIZACIÓN CON N8N Y TELEGRAM
+
+Se configura una automatización en n8n para que, cada vez que un ciudadano registre una nueva causa en la plataforma, el sistema detecte ese evento y envíe automáticamente una notificación a un grupo o canal de Telegram. 
+De esta manera, los administradores o usuarios pueden enterarse de inmediato de que hay una nueva petición disponible.
+
+Evento que activa la automatización:
+Nueva causa registrada en la plataforma.
+
+Mensaje que se envía:
+"Se ha creado una nueva causa en la plataforma Petición en 3 Clics. Ingresa al sistema para revisarla y, si lo deseas, brindar tu apoyo."
+
+Información que no debe enviarse por seguridad:
+No deben enviarse datos personales como números de cédula, teléfonos, direcciones, correos electrónicos, comentarios privados ni otra información sensible de los ciudadanos.

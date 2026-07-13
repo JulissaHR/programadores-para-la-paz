@@ -1,0 +1,9 @@
+1. El ciudadano ingresa al sistema y crea una nueva petición con su información y la descripción del problema.
+
+2. El sistema guarda la petición en la base de datos y la publica para que otros ciudadanos puedan verla.
+
+3. Otros ciudadanos ingresan al sistema y apoyan la petición con un solo clic.
+
+4. El sistema registra cada apoyo y actualiza automáticamente el número total de respaldos.
+
+5. Cuando la petición alcanza la cantidad de apoyos requerida, el sistema genera un documento PDF con la información de la petición y las firmas de apoyo para ser presentado ante la entidad correspondiente.
